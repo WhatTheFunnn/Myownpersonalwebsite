@@ -1,18 +1,27 @@
 
 body {
-    margin: 0, 0;
+    margin: 0 0;
     text-align: center;
-    background-color: black;
-    color: cornflowerblue;
-    
+    background-color: rgb(36, 36, 36);
+    background-image: url("https://www.maxpixel.net/static/photo/1x/Light-Shine-Dark-Window-Room-Glow-Dark-Room-1309884.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: top;
+    background-size: auto 100%;    
+    background-blend-mode: difference;
 }
 
+
 #para {
-    color: rgb(135, 179, 135);
+    color: rgb(135, 165, 179);
     margin-left: 500px;
     margin-right: 500px;
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
+    text-shadow: 0 0 1.5px #050505;
+    color:rgb(167, 167, 167);
+    font-size: large;
 
 }
 
@@ -23,5 +32,6 @@ body {
 
 #head {
     color: rgb(211, 250, 250);
-    font-family: 'Nosifer', cursive;
+    font-family: 'Nosifer', cursive; 
+    text-shadow: 3px 3px 2px #7b18b4, -3px -3px 2px #06e098;
 }
