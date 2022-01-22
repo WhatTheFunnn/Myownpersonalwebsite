@@ -11,8 +11,8 @@ body {
     background-blend-mode:darken;
 }
 #para1 {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
@@ -21,15 +21,14 @@ body {
 }
 
 #para2 {
-    margin-left: 500px;
-    margin-right: 700px;
-    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
     font-size: large;
-    float: left;
-    padding-right:200px;
+
 }
 #pic2 {
         float: right;
@@ -37,8 +36,8 @@ body {
         
 }
 #para3 {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
@@ -48,6 +47,7 @@ body {
 #title {
     color: chartreuse;
     font-family: 'Nosifer', cursive;
+    text-shadow: 3px 3px 2px #bd0f0f, -3px -3px 2px #06e098;
 }
 
 #head {
