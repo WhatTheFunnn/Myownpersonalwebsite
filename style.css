@@ -4,4 +4,24 @@ body {
     text-align: center;
     background-color: black;
     color: cornflowerblue;
+    
+}
+
+#para {
+    color: rgb(135, 179, 135);
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: left;
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+}
+
+#title {
+    color: chartreuse;
+    font-family: 'Nosifer', cursive;
+}
+
+#head {
+    color: rgb(211, 250, 250);
+    font-family: 'Nosifer', cursive;
 }
