@@ -26,7 +26,8 @@ body {
     font-family: 'Nosifer', cursive;
     color: black;
     text-shadow: -3px -3px 7px #000000;
-    font-size: large;    
+    font-size: large;
+    border-radius: 10px;    
 }
 
 #navbar a {
@@ -152,6 +153,7 @@ body {
     border-right: rgb(77, 7, 43) solid 3.5px;
     border-bottom: rgb(94, 10, 53) solid 2.5px;
     padding-top: 15px;
+    border-radius: 10px;
      
 }
 
