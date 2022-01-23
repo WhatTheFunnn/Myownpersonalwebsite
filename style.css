@@ -24,8 +24,8 @@ body {
 }
 
 #para1 {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
@@ -34,17 +34,27 @@ body {
 }
 
 #para2 {
+<<<<<<< HEAD
     margin-left: 500px;
     margin-right: 700px;
     text-align: justify;
+=======
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+>>>>>>> 4ddba867e13b5926868197731ec542c70be00054
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
     font-size: large;
+<<<<<<< HEAD
     padding-bottom: 80px;
     padding-right: 50px;
     
     
+=======
+
+>>>>>>> 4ddba867e13b5926868197731ec542c70be00054
 }
 #pic1 {
         float: right;
@@ -55,14 +65,27 @@ body {
 }
 
 #para3 {
+<<<<<<< HEAD
     margin-left: 865px;
     margin-right: 500px;
+=======
+    margin-left: 200px;
+    margin-right: 200px;
+>>>>>>> 4ddba867e13b5926868197731ec542c70be00054
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
     font-size: large;
 }
+<<<<<<< HEAD
+=======
+#title {
+    color: chartreuse;
+    font-family: 'Nosifer', cursive;
+    text-shadow: 3px 3px 2px #bd0f0f, -3px -3px 2px #06e098;
+}
+>>>>>>> 4ddba867e13b5926868197731ec542c70be00054
 
 #divcat {
     float: left;
