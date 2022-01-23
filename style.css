@@ -17,6 +17,19 @@ body {
     text-shadow: 3px 3px 2px #a80202, -3px -3px 2px #9b9a9a
 }
 
+#navbar {
+    background-color: chartreuse;
+    margin-left: 900px;
+    margin-right: 900px;
+    font-family: 'Nosifer', cursive;
+    color: black;
+    text-shadow: 1px 1px 7px #9b9a9a;
+    text-align: center;
+    font-size: xx-large;
+    
+    
+}
+
 #head {
     color: rgb(211, 250, 250);
     font-family: 'Nosifer', cursive; 
@@ -24,38 +37,27 @@ body {
 }
 
 #para1 {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
-    font-size: large;
+    font-size: 50%;
 }
 
 #para2 {
-<<<<<<< HEAD
     margin-left: 500px;
     margin-right: 700px;
     text-align: justify;
-=======
-    margin-left: 200px;
-    margin-right: 200px;
-    text-align: center;
->>>>>>> 4ddba867e13b5926868197731ec542c70be00054
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
     font-size: large;
-<<<<<<< HEAD
     padding-bottom: 80px;
-    padding-right: 50px;
-    
-    
-=======
-
->>>>>>> 4ddba867e13b5926868197731ec542c70be00054
+    padding-right: 50px;    
 }
+
 #pic1 {
         float: right;
         margin-right: 500px;
@@ -65,27 +67,14 @@ body {
 }
 
 #para3 {
-<<<<<<< HEAD
     margin-left: 865px;
     margin-right: 500px;
-=======
-    margin-left: 200px;
-    margin-right: 200px;
->>>>>>> 4ddba867e13b5926868197731ec542c70be00054
     text-align: left;
     font-family: 'Mochiy Pop P One', sans-serif;
     color:rgb(0, 247, 255);
     text-shadow: 0 0 30px #070707;
     font-size: large;
 }
-<<<<<<< HEAD
-=======
-#title {
-    color: chartreuse;
-    font-family: 'Nosifer', cursive;
-    text-shadow: 3px 3px 2px #bd0f0f, -3px -3px 2px #06e098;
-}
->>>>>>> 4ddba867e13b5926868197731ec542c70be00054
 
 #divcat {
     float: left;
@@ -93,6 +82,14 @@ body {
     width: 350px;
     margin-top: -300px;
 }
+
 #divcat img {
     width: 350px;   
+}
+
+#video {
+    transform:rotate(-90deg);
+    float: left;
+    margin-left: 500px;
+    margin-top: -100px;
 }
