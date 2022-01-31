@@ -2,8 +2,6 @@ var videoplayer=document.getElementById(`video1`);
 videoplayer.volume= 0;
 videoplayer.setAttribute(`autoplay`, `True`);
 videoplayer.addEventListener(`autoplay`, myhandler, `True`); 
-function myhandler(){
-    videoplayer.volume=3;
 }
 
 const contact= document.getElementById(`contact`);
